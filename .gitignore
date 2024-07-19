@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# github
+.git
+
+# publish
+/build
+dist
+
+# vercel
+.vercel
+
+#typescript 
+react-app-env.d.ts
+
+
